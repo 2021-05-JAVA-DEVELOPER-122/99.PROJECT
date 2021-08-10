@@ -1,4 +1,4 @@
-DB URL   : jdbc:oracle:thin:@182.237.126.19:XE
+DB URL   : jdbc:oracle:thin:@182.237.126.19:1521:XE
 
 <<<<<< SQLDeveloper >>>>>>
 
