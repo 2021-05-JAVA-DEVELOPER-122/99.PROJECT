@@ -7,9 +7,14 @@ DB URL   : jdbc:oracle:thin:@182.237.126.19:1521:XE
 SID         : XE
  	
 <<team1>>
-
+아이디	: librarian
+패쓰워드: librarian
 <<team2>>
-
+아이디	: shopping
+패쓰워드: shopping
 <<team3>>
-
+아이디	: traveller
+패쓰워드: traveller
 <<team4>>
+아이디	: kurly
+패쓰워드: kurly
