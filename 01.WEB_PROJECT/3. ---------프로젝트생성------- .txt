@@ -40,26 +40,21 @@
 	com.itwill.shop.sevice.MemberService.java
 	com.itwill.shop.sevice.CartService.java
 	com.itwill.shop.sevice.OrderService.java
-4.jsp페이지이름(jsp생성) 
+4.jsp페이지이름(jsp생성)[페이지정의서] 
     << member >>
-		member_login_form.jsp
+	member_login_form.jsp
     	member_logout_action.jsp
     	member_insert_form.jsp
     	member_insert_action.jsp
-
-	<< product >>	
-		product_list.jsp
+    << product >>	
+	product_list.jsp
     	product_detail.jsp
-    	
-	<< order>>	
-		order_list.jsp
+    << order>>	
+	order_list.jsp
     	order_detail.jsp
+5. git respository생성-->push(팀장) 
+   git clone(팀원)
 
-5. svn  import(팀장) 
-   svn  checkout(팀원)
-
-
-6. 프로젝트내부에 산출물(문서)폴더만들어서 공유
 
 
     
