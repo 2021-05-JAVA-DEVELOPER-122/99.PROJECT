@@ -32,11 +32,14 @@
 	/*******************CASE2[기능별]***************/
 	com.itwill.shop.vo.Member.java
 	com.itwill.shop.vo.Order.java
+	com.itwill.shop.vo.OrderItem.java
 	com.itwill.shop.vo.CartItem.java
 	com.itwill.shop.dao.MemberDao.java
 	com.itwill.shop.dao.CartDao.java
 	com.itwill.shop.dao.OrderDao.java
-	co
+	com.itwill.shop.sevice.MemberService.java
+	com.itwill.shop.sevice.CartService.java
+	com.itwill.shop.sevice.OrderService.java
 4.jsp페이지이름(jsp생성) 
     << member >>
 		member_login_form.jsp
