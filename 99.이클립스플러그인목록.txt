@@ -1,0 +1,8 @@
+<< UML,ERD >>
+http://takezoe.github.io/amateras-update-site/
+<<properties editor>>
+http://propedit.sourceforge.jp/eclipse/updates/
+<<tern>>
+http://oss.opensagres.fr/tern.repository/1.2.0/
+http://oss.opensagres.fr/tern.repository/snapshots/
+http://oss.opensagres.fr/tern.repository/1.3.0-SNAPSHOT/
