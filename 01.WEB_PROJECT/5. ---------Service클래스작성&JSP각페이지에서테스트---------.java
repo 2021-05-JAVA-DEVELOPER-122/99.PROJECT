@@ -3,11 +3,11 @@
 ----------------------------------------------------------
        - 단위업무주석기술
        ex>	MemberService.java
-  			OrderService.java
-  			BoardService.java
-  			ProductService.java
+  		OrderService.java
+  		BoardService.java
+  		ProductService.java
 
-2.화면정의서에있는 업무를 참고해서 주석으로 기능을정의	
+2.요구사항명세표,화면정의서에있는 업무를 참고해서 주석으로 기능을정의	
 ------------------------------------------------------
   	ex>	public class MemberService{
 	      private MemberDao memberDao;
